@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String Tagname = "firstName";
     public static final String TagLast = "Lastname";
 
+    String mahesh = "";
     int Cashwalletbalance;
     String uId,fname,Lname;
     String LoginStatus,Useremail,Usermobile;
