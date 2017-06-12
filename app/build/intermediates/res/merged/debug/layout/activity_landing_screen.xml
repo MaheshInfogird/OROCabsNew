@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical" tools:context=".MainActivity"
+    android:background="@color/GreyBgColor">
+
+    <VideoView
+        android:id="@+id/video_view"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/skip"
+        android:textSize="15sp"
+        android:text="Getting Started with Oro"
+        android:textColor="@color/WhiteTextColor"
+        android:background="@drawable/black_btn"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"/>
+
+    <!-- Company Logo -->
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="67dp"
+        android:id="@+id/logo"
+        android:src="@drawable/ptop_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"/>
+    <!-- Company Logo -->
+</RelativeLayout>

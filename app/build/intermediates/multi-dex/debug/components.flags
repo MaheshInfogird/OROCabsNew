@@ -1,0 +1,186 @@
+-injars 'D:\ORO Cab Final\OROCabs\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'D:\ORO Cab Final\OROCabs\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\android-sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\ORO Cab Final\OROCabs\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.facebook.FacebookActivity {
+    <init>();
+}
+
+-keep class com.razorpay.CheckoutActivity {
+    <init>();
+}
+
+-keep class com.orocab.customer.LandingActivity {
+    <init>();
+}
+
+-keep class com.orocab.customer.MainActivity {
+    <init>();
+}
+
+-keep class com.orocab.customer.Signup {
+    <init>();
+}
+
+-keep class com.orocab.customer.Forgotpassword {
+    <init>();
+}
+
+-keep class com.orocab.customer.otpverify {
+    <init>();
+}
+
+-keep class com.orocab.customer.MapActivity {
+    <init>();
+}
+
+-keep class com.orocab.customer.Profile {
+    <init>();
+}
+
+-keep class com.orocab.customer.Booking {
+    <init>();
+}
+
+-keep class com.orocab.customer.Wallet {
+    <init>();
+}
+
+-keep class com.orocab.customer.FareCard {
+    <init>();
+}
+
+-keep class com.orocab.customer.payuwallet {
+    <init>();
+}
+
+-keep class com.orocab.customer.Facebook {
+    <init>();
+}
+
+-keep class com.orocab.customer.MapActivity_cstmr {
+    <init>();
+}
+
+-keep class com.orocab.customer.logout {
+    <init>();
+}
+
+-keep class com.orocab.customer.MobileActivity {
+    <init>();
+}
+
+-keep class com.orocab.customer.IncomingSms {
+    <init>();
+}
+
+-keep class com.orocab.customer.maptest {
+    <init>();
+}
+
+-keep class com.orocab.customer.Autocompletetest {
+    <init>();
+}
+
+-keep class com.orocab.customer.Rajoractivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.gcm.GcmReceiver {
+    <init>();
+}
+
+-keep class com.orocab.customer.GCMPushReceiverService {
+    <init>();
+}
+
+-keep class com.orocab.customer.GCMRegistrationIntentService {
+    <init>();
+}
+
+-keep class com.orocab.customer.MyTaskService {
+    <init>();
+}
+
+-keep class com.orocab.customer.Customerinvoice {
+    <init>();
+}
+
+-keep class com.orocab.customer.wallethistorydetails {
+    <init>();
+}
+
+-keep class com.orocab.customer.emergencycontact {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,166 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical" tools:context=".MainActivity"
+        android:background="@color/TitleColor">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="50dp"
+            android:background="#ffffff">
+
+
+
+            <ImageButton
+                android:id="@+id/close_img"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="right"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/close_icon"/>
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rate Us"
+                android:textSize="16sp"
+                android:textColor="@color/TitleColor"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20dp"/>
+
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/driver_pic"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/profile_pic_track_cab"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Rdrivername"
+                    android:textColor="@color/TitleColor"
+                    android:text="Yogesh Adhe"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="3dp"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rVehiclename"
+                    android:textColor="@color/TitleColor"
+                    android:textSize="13sp"
+                    android:text="Swift Dzire"
+                    android:gravity="center"
+                    android:layout_marginTop="3dp"
+                    android:layout_gravity="center_horizontal"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rVehiclno"
+                    android:textColor="@color/TitleColor"
+                    android:textSize="13sp"
+                    android:text="MH-20 AZ-9999"
+                    android:gravity="center"
+                    android:layout_marginTop="3dp"
+                    android:layout_gravity="center_horizontal"/>
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/ed_comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:maxLines="2"
+                android:textSize="16sp"
+                android:hint="comment"
+                android:paddingLeft="10dp"
+                android:background="@drawable/input_box"/>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="5dp">
+
+                <RatingBar
+                    android:id="@+id/driver_rating"
+                    android:progressDrawable="@drawable/ratingbar_custom2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:numStars="5"
+                    android:stepSize="0.5"
+                    android:rating="3.5"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+
+
+
+
+            <Button
+                android:layout_width="135dp"
+                android:layout_height="40dp"
+                android:textSize="15sp"
+                android:id="@+id/Ratebutton"
+                android:text="Submit"
+                android:textColor="@color/WhiteTextColor"
+                android:background="@drawable/black_btn"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"/>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Remind me later"
+                android:id="@+id/rclosepopup"
+                android:textSize="14sp"
+                android:textColor="@color/TitleColor"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20dp" />
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

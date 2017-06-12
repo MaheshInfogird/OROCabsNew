@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oro_video.mp4",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\raw\\oro_video.mp4"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

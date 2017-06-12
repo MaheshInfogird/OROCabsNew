@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@color/WhiteTextColor">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fare Estimate"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="15dp"
+        />
+
+    <ImageButton
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/cancelrideestimate"
+        android:background="@drawable/close_icon"
+        android:layout_alignParentRight="true"
+        />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:id="@+id/white_box"
+        android:background="@drawable/shadow"
+        android:layout_marginTop="30dp" />
+
+
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/search_icon"
+        android:background="@drawable/search_icon"
+        android:layout_alignLeft="@+id/white_box"
+        android:layout_marginTop="52dp"
+        android:layout_marginLeft="10dp"/>
+
+
+
+    <ImageView
+        android:layout_width="23dp"
+        android:layout_height="21dp"
+        android:id="@+id/heart"
+        android:background="@drawable/heart_blank"
+        android:layout_alignRight="@+id/white_box"
+        android:layout_marginTop="45dp"
+        android:layout_marginRight="10dp"/>
+
+
+
+   <!-- <ImageView
+        android:layout_width="30dp"
+        android:layout_height="18dp"
+        android:id="@+id/arrow"
+        android:rotation="180"
+        android:src="@drawable/arrow_shape"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="93dp"
+        android:layout_marginRight="10dp"/>-->
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/drop_location"
+        android:text="@string/drop_location"
+        android:textSize="14sp"
+        android:textColor="@color/GoldenTextColor"
+        android:layout_alignLeft="@+id/white_box"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="30dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:background="@color/white"
+        android:id="@+id/Droplocation"
+        android:orientation="horizontal"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp">
+
+        <TextView
+            android:id="@+id/txt_drop_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:layout_gravity="center"
+            android:hint="Search Location"/>
+
+        </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fare_estimate"
+        android:layout_below="@+id/white_box"
+        android:background="@drawable/shadow"
+        android:layout_marginTop="20dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pick_drop_outer"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+            <RelativeLayout
+                android:layout_width="16dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/loc_img">
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/pick_drop_loc_icon"/>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pick_loc"
+                    android:text="@string/drop_location"
+                    android:textSize="14sp"
+                    android:textColor="@color/GoldenTextColor"
+                    android:layout_marginBottom="3dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/drop_add"
+                    android:text="Bajrang Chowk, N-8, Cidco"
+                    android:textSize="16sp"
+                    android:textColor="@color/TitleColor"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:layout_below="@+id/pick_loc"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/drop_loc"
+                    android:text="@string/pick_location"
+                    android:textSize="14sp"
+                    android:textColor="@color/GoldenTextColor"
+                    android:layout_marginBottom="3dp"
+                    android:layout_below="@+id/drop_add"
+                    android:layout_marginTop="20dp"/>
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pick_add"
+                    android:textSize="16sp"
+                    android:text="@string/drop_location"
+                    android:textColor="@color/TitleColor"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:layout_below="@+id/drop_loc"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+        <!--Dottet Line-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:id="@+id/dottet_line"
+            android:layout_below="@+id/pick_drop_outer"
+            android:orientation="horizontal"
+            android:background="@drawable/dotted_line"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+        </LinearLayout>
+        <!--Dottet Line-->
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/approx_fare"
+            android:layout_below="@+id/dottet_line"
+            android:text="@string/approx_fare"
+            android:textSize="14sp"
+            android:textColor="@color/GoldenTextColor"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"/>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/total_fare"
+            android:layout_below="@+id/approx_fare"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+                <LinearLayout
+                    android:id="@+id/aprx_price_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rs"
+                        android:textSize="22sp"
+                        android:textColor="@color/TitleColor"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="00"
+                        android:id="@+id/estimate1"
+                        android:textSize="28sp"
+                        android:textColor="@color/TitleColor"
+                        android:layout_marginLeft="10dp" />
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:layout_toRightOf="@+id/aprx_price_layout">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rs"
+                        android:textSize="22sp"
+                        android:textColor="@color/TitleColor"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="00"
+                        android:id="@+id/estimate2"
+                        android:textSize="28sp"
+                        android:textColor="@color/TitleColor"
+                        android:layout_marginLeft="10dp" />
+                </LinearLayout>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/note"
+        android:layout_below="@+id/fare_estimate"
+        android:text="@string/note"
+        android:textSize="13sp"
+        android:textColor="@color/GreyTextColor"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"/>
+
+
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

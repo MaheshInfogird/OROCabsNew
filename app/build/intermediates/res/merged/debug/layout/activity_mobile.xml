@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/GreyBgColor"
+    tools:context="com.orocab.customer.MobileActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical" tools:context=".MainActivity"
+        android:background="@color/GreyBgColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/toolbar"></include>
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</LinearLayout>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="14sp"
+        android:id="@+id/facemobile"
+        android:layout_marginTop="80dp"
+        android:inputType="phone"
+        android:hint="@string/mobileface"
+        android:singleLine="true"
+        android:textCursorDrawable="@null"
+        android:textColor="@color/InputTextColor"
+        android:background="@drawable/input_box"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="15sp"
+        android:id="@+id/updatemobile"
+        android:layout_below="@+id/facemobile"
+        android:text="Update Mobile"
+        android:textColor="@color/WhiteTextColor"
+        android:background="@drawable/black_btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="30dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/updatemobile"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingRight="10dp"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:id="@+id/faceotplayout">
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textSize="14sp"
+            android:id="@+id/faceotp"
+            android:layout_marginTop="80dp"
+            android:inputType="phone"
+            android:hint="Enter OTP"
+            android:singleLine="true"
+            android:textCursorDrawable="@null"
+            android:textColor="@color/InputTextColor"
+            android:background="@drawable/input_box"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="15sp"
+            android:id="@+id/updatefbdetials"
+            android:layout_below="@+id/facemobile"
+            android:text="Update OTP"
+            android:textColor="@color/WhiteTextColor"
+            android:background="@drawable/black_btn"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</RelativeLayout>

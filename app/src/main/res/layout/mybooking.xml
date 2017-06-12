@@ -1,0 +1,240 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical" tools:context=".MainActivity"
+        android:id="@+id/Myrideinvoice"
+        android:background="@color/GreyBgColor"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="10dp">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_marginRight="30dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Bookingnumber"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/TitleColor"/>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="5dp"
+                    android:orientation="horizontal"
+                    android:background="@drawable/dotted_line"
+                    android:layout_marginTop="5dp">
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_gravity="center_vertical">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="right">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rs"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/TitleColor"
+                        android:layout_marginRight="5dp"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="120"
+                        android:id="@+id/orobookingamount"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/TitleColor"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="30dp">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/crn"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/TitleColor"
+                    android:layout_marginRight="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Orocrno"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/GoldenTextColor"/>
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/orobookingdatetime"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/TitleColor"
+                android:gravity="right"/>
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="30dp">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.8"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="16dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp">
+                    <ImageView
+                        android:layout_width="16dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/pick_drop_loc_icon"/>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/drop_location"
+                        android:textSize="14sp"
+                        android:textColor="@color/GoldenTextColor"
+                        android:layout_marginBottom="3dp"
+                       />
+                    .
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/oroDrop"
+                        android:textSize="16sp"
+                        android:textColor="@color/TitleColor"
+                        android:maxLines="1"
+                        android:ellipsize="end"/>
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/pick_location"
+                        android:textSize="14sp"
+                        android:layout_marginTop="20dp"
+                        android:textColor="@color/GoldenTextColor"
+                        android:layout_marginBottom="3dp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/oropickup"
+                        android:textSize="16sp"
+                        android:textColor="@color/TitleColor"
+                        android:maxLines="1"
+                        android:ellipsize="end"/>
+
+
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:text="@string/compl_btn"
+                    android:textSize="13sp"
+                    android:id="@+id/orobookingstatus"
+                    android:textColor="@color/WhiteTextColor"
+                    android:layout_gravity="right"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:visibility="gone"
+                    android:text="@string/compl_btn"
+                    android:textSize="13sp"
+                    android:id="@+id/orostatus"
+                    android:textColor="@color/WhiteTextColor"
+                    android:layout_gravity="right"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:visibility="gone"
+                    android:text="@string/compl_btn"
+                    android:textSize="13sp"
+                    android:id="@+id/orobookingid"
+                    android:textColor="@color/WhiteTextColor"
+                    android:layout_gravity="right"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

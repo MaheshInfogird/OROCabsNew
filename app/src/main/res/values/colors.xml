@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#1f1a17</color>-->
+    <color name="colorAccent">#dddddd</color>
+    <!--<color name="colorAccent">#9E9E9E</color>-->
+
+    <color name="ColorPrimary">#F44336</color>
+    <color name="ColorPrimaryDark">#D32F2F</color>
+
+    <color name="GreyBgColor">#f8f8f8</color>
+    <color name="TitleColor">#1f1a17</color>
+    <color name="InputLabelColor">#1f1a17</color>
+    <color name="InputTextColor">#727272</color>
+    <color name="WhiteTextColor">#ffffff</color>
+    <color name="GreyTextColor">#aaaaaa</color>
+    <color name="BorderColor">#dddddd</color>
+    <color name="GoldenTextColor">#e5ba31</color>
+    <color name="white">#FFFFFF</color>
+    <color name="RedTextColor">#f50a0a</color>
+    <color name="GreenTextColor">#1eab1a</color>
+
+</resources>

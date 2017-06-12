@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC000000">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:id="@+id/pick_loc_click"
+        android:layout_marginTop="66dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shadow"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/pickup_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_weight="1"
+                android:textSize="13sp"
+                android:textColor="@color/GoldenTextColor"
+                android:text="@string/pick_location"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pickup_layout">
+
+            <TextView
+                android:id="@+id/ed_place_autocomplete_fragment"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:paddingLeft="10dp"
+                android:editable="false"
+                android:textSize="13sp"
+                android:layout_weight="1"
+                android:hint="Enter Location"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:cursorVisible="false"
+                android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please enter location"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:textSize="22sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+</LinearLayout>

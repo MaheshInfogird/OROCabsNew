@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\facebooklayout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\facebooklayout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_emergencycontact.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_emergencycontact.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customerbooking.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\customerbooking.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rajoractivity.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_rajoractivity.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationpopup.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\locationpopup.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rzp_loader.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.3\\res\\layout\\rzp_loader.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_activity_old.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\map_activity_old.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_popup.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\rating_popup.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mobile.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_mobile.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paywallet.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\paywallet.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fare_card.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_fare_card.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otpverify.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_otpverify.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rzp_magic_base.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.3\\res\\layout\\rzp_magic_base.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maptest.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_maptest.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_cstmr.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_map_cstmr.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customerinvoice.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_customerinvoice.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oro_wallet_history.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_oro_wallet_history.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancelpopup.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\cancelpopup.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_logout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_activity_drawer.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\base_activity_drawer.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rideestimate.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\rideestimate.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sharedir.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\sharedir.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wallethistorydetails.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_wallethistorydetails.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_landing_screen.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_landing_screen.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wallet.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\enter_location.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\enter_location.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_autocompletetest.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_autocompletetest.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_menu_header.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\side_menu_header.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgotpassword.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farepopupdetails.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\farepopupdetails.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mybooking.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\mybooking.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_booking.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\src\\main\\res\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netbanking_remember_id.xml",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.1\\res\\layout\\netbanking_remember_id.xml"
+    }
+]

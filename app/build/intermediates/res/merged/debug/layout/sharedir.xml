@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@color/WhiteTextColor">
+
+        <ImageButton
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/Closeride"
+            android:background="@drawable/close_icon"
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="right"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:inputType="phone"
+            android:padding="10dp"
+            android:textCursorDrawable="@null"
+            android:hint="Enter Mobile No"
+            android:background="@drawable/input_box"
+            android:layout_marginBottom="30dp"
+            android:maxLength="10"
+            android:textColor="@color/TitleColor"
+            android:id="@+id/sharemob"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sharemob"
+            android:text="Share Ride"
+            android:id="@+id/Subshareride"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:background="@drawable/black_btn"/>
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

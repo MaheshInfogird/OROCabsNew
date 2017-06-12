@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/BorderColor"
+    android:theme="@style/AppTheme"
+    local:popupTheme="@style/AppTheme"
+    local:theme="@style/AppTheme"
+    xmlns:local="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/toolImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/ptop_logo_small"/>
+
+    <TextView
+        android:id="@+id/toolText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:paddingLeft="12dp"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:id="@+id/historyicon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Book a Cab"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:layout_marginRight="10dp"
+        android:paddingRight="15dp"
+        android:layout_gravity="end"/>
+
+
+    <!--<ImageView
+        android:id="@+id/walletimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/oro_cab_small_logo"/>
+-->
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">P2P Cab</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">974724922595426</string>
+    <!--<string name="app_id">1715733431991404</string>-->
+
+
+    <!--Sign In-->
+    <string name="sign_in_with">SIGN IN WITH</string>
+    <string name="or">OR</string>
+    <string name="mobile_number">Mobile Number / Email Id</string>
+    <string name="password">Password</string>
+    <string name="signin_btn">SIGN IN</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_activity_sign_up">activity_sign_up</string>
+    <string name="sign_up_with">SIGN UP WITH</string>
+    <string name="sign_up_withOTP">Enter OTP</string>
+    <string name="ResetPassword">Reset Password</string>
+    <!--Sign In-->
+
+    <!--Sign Up-->
+    <string name="sign_up_fr_name">First Name</string>
+    <string name="sign_up_lt_name">Last Name</string>
+    <string name="sign_up_mobile">Mobile Number</string>
+    <string name="sign_up_email">Email Address</string>
+    <string name="sign_up_pass">Set Password</string>
+    <string name="sign_up_confpass">Confirm Password</string>
+    <string name="sign_up_msg">By signing up you agree with terms and conditions of ORO cab</string>
+    <string name="sign_up_btn">SIGN UP NOW</string>
+    <!--Sign Up-->
+
+    <!--Forgot Password-->
+    <string name="forgot_password_page">FORGOT PASSWORD ?</string>
+    <string name="forgot_pass_mobile_no">Mobile Number</string>
+    <string name="forgot_button">SMS ME NEW PASSWORD</string>
+    <!--Forgot Password-->
+
+
+    <!--Wallet-->
+    <string name="wallet_title">ORO Balance</string>
+    <string name="wallet_sub_title">Add cash to your wallet</string>
+    <string name="wallet_enter_amount">Enter Amount</string>
+    <string name="wallet_bal_amount">Balance Amount</string>
+    <string name="wallet_add_btn">ADD CASH TO WALLET</string>
+    <!--Wallet-->
+
+
+    <!--Rupees Icon-->
+    <string name="rs">\u20B9</string>
+    <!--Rupees Icon-->
+
+
+    <!--Edit Profile-->
+    <string name="profile_title">EDIT PROFILE</string>
+    <string name="profile_save_btn">SAVE PROFILE</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobileface">Enter Mobile Number</string>
+    <!--Edit Profile-->
+
+    <!--Select Car-->
+    <string name="oro_cab_title">OROCab</string>
+    <string name="fare">Fare Estimate</string>
+    <string name="faredetails">Fare Details</string>
+    <string name="book_now_btn">BOOK NOW</string>
+    <!--Select Car-->
+
+    <!--Confirm Cab-->
+    <string name="coupon_code">Coupon Code</string>
+    <string name="confirm_btn">CONFIRM</string>
+    <!--Confirm Cab-->
+
+    <!--Fare Card-->
+    <string name="fare_card_title">FARE CARD</string>
+    <string name="base_fare">Base fare</string>
+    <string name="per_km">Rate per km</string>
+    <string name="ride_time">Ride time</string>
+    <string name="fare_card_tc1">Additional toll/parking charges may apply.</string>
+    <string name="fare_card_tc2">Service tax charges as applicable.</string>
+    <string name="fare_card_tc3">Night charges as applicable on 50 % of Total bill.</string>
+
+    <!--Fare Card-->
+
+    <!--Bullet Icon-->
+    <string name="bullet">\u2022</string>
+    <!--Bullet Icon-->
+
+
+    <!--Track Cab-->
+    <string name="call_driver_btn">DRIVER</string>
+    <string name="share_btn">SHARE</string>
+    <string name="cancel_btn">CANCEL</string>
+    <!--Track Cab-->
+
+
+    <!--Bill-->
+    <string name="bill_title">JOURNEY DETAILS</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="ride_km">Ride Km</string>
+    <string name="pick_location">pickup location</string>
+    <string name="drop_location">drop location</string>
+    <string name="bill_details">BILL DETAILS</string>
+    <string name="total_fare">Total Fare</string>
+    <string name="service_tax">Service Tax and Other Charges</string>
+    <string name="total_bill_amount">Total Bill</string>
+    <string name="app_rating">HOW DO YOU RATE THIS TRIP ?</string>
+    <string name="submit_btn_title">SUBMIT</string>
+    <string name="remind_me">Remind me later</string>
+    <!--Bll-->
+
+
+    <!--My Bookings-->
+    <string name="my_bookings_titile">MY BOOKINGS</string>
+    <string name="booking_title1">Booking #1</string>
+    <string name="booking_title2">Booking #2</string>
+    <string name="crn">CRN :</string>
+    <string name="compl_btn">COMPLETED</string>
+    <string name="cans_btn">CANCELLED</string>
+    <!--My Bookings-->
+
+    <!--<string name="gcm_defaultSenderId">orocabs</string>-->
+
+
+    <!--Apply Coupon Code-->
+    <string name="enter_coupon_code">Enter Coupon Code</string>
+    <string name="apply_code_btn">APPLY CODE</string>
+    <!--Apply Coupon Code-->
+
+
+    <!--Fare Estimate-->
+    <string name="approx_fare">approx fare estimate</string>
+    <string name="note">Please note that this fare estimate is a approximate calculation and actual fare cost may differ.</string>
+    <!--Fare Estimate-->
+
+
+    <!-- Drawer Open and Close -->
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+
+    <!-- Cancellation reason -->
+
+    <string name="Cancelreason">Are you sure Want to cancel this Booking ? please select reason</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Book Cab Now</item>
+        <item>Booking history</item>
+        <item>Fare Card</item>
+        <item>ORO Wallet</item>
+        <item>Emergency Contact</item>
+        <item>Rate Us</item>
+        <item>About Us</item>
+        <item>Logout</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/book_cab_side_menu_icon</item>
+        <item>@drawable/booking_history_side_menu_icon</item>
+        <item>@drawable/fare_card_side_menu_icon</item>
+        <item>@drawable/oro_wallet_side_menu_icon</item>
+        <item>@drawable/support_side_menu_icon</item>
+        <item>@drawable/rate_us_side_menu_icon</item>
+        <item>@drawable/about_side_menu_icon</item>
+        <item>@drawable/logout_side_menu_icon</item>
+    </array>
+
+    <string name="gps_network_not_enabled">GPS Not enabled</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="location_updated_message">Location Changes</string>
+
+
+    <string name="notification_error_ssl_cert_invalid">SSL Certification is expires you still want to continue the payment</string>
+
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+    <string name="start_updates">Start updates</string>
+    <string name="stop_updates">Stop updates</string>
+
+    <string name="autocomplete_hint">Enter place name or address</string>
+    <string name="selected_place">Last Selected Place:</string>
+    <string name="clear_text">Clear Text</string>
+
+    <!--Rating Popup-->
+    <string name="rating_title">HOW DO YOU RATE THIS TRIP ?</string>
+    <string name="submit_btn">SUBMIT</string>
+    <!--Rating Popup-->
+
+    <!-- getString(String, Object...) does not support HTML tags directly, they need to be encoded first.
+    Original string: <b>%1$s</b><br/><i>Place Id: %2$s</i><br/>Address: %3$s<br/>Phone: %4$s<br/>Website: %5$s-->
+    <string name="place_details">&lt;b&gt;%1$s&lt;/b&gt;&lt;br/&gt;&lt;i&gt;Place Id: %2$s&lt;/i&gt;&lt;br/&gt;Address: %3$s&lt;br/&gt;Phone: %4$s&lt;br/&gt;Website: %5$s</string>
+</resources>
+
+
+
+

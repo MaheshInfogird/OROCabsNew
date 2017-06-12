@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.orocab.customer.wallethistorydetails">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar1">
+        <include layout="@layout/toolbar"></include>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_below="@+id/toolbar1"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="0dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/wallet_history_icon2"
+            android:layout_gravity="center_vertical"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WALLET HISTORY"
+            android:textSize="18sp"
+            android:textColor="@color/TitleColor"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/OROhistorylist"
+        android:layout_marginTop="100dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp">
+
+    </ListView>
+
+
+
+
+</RelativeLayout>

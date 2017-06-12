@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rzp_check.png",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.1\\res\\drawable-xxhdpi-v4\\rzp_check.png"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rzp_uncheck.png",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.1\\res\\drawable-xxhdpi-v4\\rzp_uncheck.png"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rzp_logo.png",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.3\\res\\drawable-xxhdpi-v4\\rzp_logo.png"
+    },
+    {
+        "merged": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rzp_white_badge.png",
+        "source": "D:\\ORO Cab Final\\OROCabs\\app\\build\\intermediates\\exploded-aar\\com.razorpay\\checkout\\1.3.1\\res\\drawable-xxhdpi-v4\\rzp_white_badge.png"
+    }
+]

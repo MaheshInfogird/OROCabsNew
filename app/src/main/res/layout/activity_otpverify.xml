@@ -1,0 +1,99 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical" tools:context=".MainActivity"
+        android:background="@color/GreyBgColor"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please enter OTP sent to your mobile number"
+            android:textSize="16sp"
+            android:gravity="left"
+            android:textColor="@color/InputLabelColor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/otprecieved"
+            android:textSize="14sp"
+            android:textCursorDrawable="@null"
+            android:textColor="@color/InputTextColor"
+            android:background="@drawable/input_box"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"/>
+
+
+       <!-- <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/otprecieved1"
+            android:textSize="14sp"
+            android:textCursorDrawable="@null"
+            android:textColor="@color/InputTextColor"
+            android:background="@drawable/input_box"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"/>-->
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="15sp"
+            android:text="Verify"
+            android:id="@+id/OtPverifybutton"
+            android:textColor="@color/WhiteTextColor"
+            android:background="@drawable/black_btn"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="20dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Haven't received the OTP yet ?"
+                    android:textSize="14sp"
+                    android:textColor="@color/GreyTextColor"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Resend"
+                    android:id="@+id/Resendotp"
+                    android:textSize="14sp"
+                    android:textColor="#1f7aee"
+                    android:layout_marginLeft="5dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+</ScrollView>
